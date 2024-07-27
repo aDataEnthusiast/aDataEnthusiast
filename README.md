@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! 👋🧑
+I'm __Sam__, a data enthusiast living in Brooklyn. 
+
+My ideal project is something that exists at the intersection of data science and public policy. 
 
 <!--
 **aDataEnthusiast/aDataEnthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
