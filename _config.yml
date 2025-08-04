@@ -11,6 +11,10 @@ collections:
   posts:
     output          : true
 
+theme: jekyll-theme-minimal
+title: ADE
+description: Bookmark this to keep an eye on my project updates!
+
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
